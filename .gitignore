@@ -1,0 +1,27 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Internal working notes, scripts and logs
+/analysis/
+/screenshots/
+/_run-logs/
+*.log
+
+# Environments / dependencies
+venv/
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data and secrets
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.*
