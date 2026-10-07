@@ -10,6 +10,7 @@ Python · pygame · Tiled (CSV level layers) · single-player, offline
 ![pygame](https://img.shields.io/badge/pygame-2.6-2C8E3C)
 ![Tiled](https://img.shields.io/badge/Tiled-level%20editor-1E90FF)
 ![Desktop](https://img.shields.io/badge/Desktop-local%20app-555555)
+![For sale](https://img.shields.io/badge/Product-For%20sale-7C4DFF)
 
 <table>
   <tr>
@@ -25,6 +26,14 @@ Python · pygame · Tiled (CSV level layers) · single-player, offline
 </div>
 
 ---
+
+<!-- fw-sale:start -->
+## Reach & Availability
+
+| | |
+|---|---|
+| **Product sale** | This is a Future Watch product and it is **available to buy or license** for your own business. [Ask about buying 2D Mario](https://futurewatch.co/contact?type=product&ref=2d-mario) or email [rehan@futurewatch.co](mailto:rehan@futurewatch.co). |
+<!-- fw-sale:end -->
 
 ## Product at a Glance
 
